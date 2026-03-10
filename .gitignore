@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+
+# Environment variables
+.env
+
+#MODELS
+models/*.pkl
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Streamlit cache
+.streamlit/
+
+# Large temporary files
+*.tmp
+*.temp
+
+# Optional: ignore large models if needed
+# models/
+
+# Optional: ignore dataset if very large
+# dataset/
