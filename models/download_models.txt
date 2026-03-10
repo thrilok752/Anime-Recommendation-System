@@ -1,0 +1,6 @@
+
+Download trained models from Google Drive:
+
+<https://drive.google.com/drive/folders/1duP2j3rVbuFTxKOD_gW9fVW2knJKt0At?usp=sharing>
+
+Place them in this folder before running the application.
